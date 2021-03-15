@@ -1,7 +1,7 @@
 # Physics-Note
 
 
-<img src="E:\Physics Note\Feynman.jpg" alt="Feynman" style="zoom:50%;" />
+![image](https://github.com/ElonDormancy/Physics-Note/blob/master/Feynman.jpg)
 
 Physics notes learn by myself
 
