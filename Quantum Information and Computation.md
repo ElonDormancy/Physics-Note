@@ -192,7 +192,7 @@ $\vec{n} = (n_x,n_y,n_z)$  is the Bloch Vector
 and $\vec{\sigma_n}=\vec{\sigma}\cdot\vec{n} = \sigma_xn_x+\sigma_yn_y+\sigma_zn_z$
 
 $\left | \psi_+(\theta, \varphi) \right \rangle = \begin{pmatrix}
-  cos\frac{\theta}{2}\\e^{i\varphi}sin\frac{\theta}{2}
+  cos\frac{\theta}{2}\\ e^{i\varphi}sin\frac{\theta}{2}
 \end{pmatrix}$
 
 
