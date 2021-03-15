@@ -187,7 +187,7 @@ $\sigma_x = \begin{pmatrix}
 
 spin
 
-$\vec{n} = (n_x,n_y,n_z)$ is the Bloch Vector
+$\vec{n} = (n_x,n_y,n_z)$  is the Bloch Vector
 
 and $\vec{\sigma_n}=\vec{\sigma}\cdot\vec{n} = \sigma_xn_x+\sigma_yn_y+\sigma_zn_z$
 
