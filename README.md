@@ -19,12 +19,10 @@ If you have any question you can contact me in [zhihu](https://www.zhihu.com/peo
 # Course Notes
 
 - [x] [Atomic Physics Review](https://github.com/ElonDormancy/Physics-Note/blob/master/Note/The_Review_of_Atomic_Physics.pdf)
-
 - [x] [Electrodynamics_Brochure](https://github.com/ElonDormancy/Physics-Note/blob/master/Note/Electrodynamics_Brochure.pdf)
 - [x] [Quantum Information and quantum computation](https://github.com/ElonDormancy/Physics-Note/blob/master/Note/QIC/The_Note_of_QIC%20V4.pdf)
-
 - [x] [Numerical_Recipes_in_Physics](https://github.com/ElonDormancy/Physics-Note/blob/master/Note/Numerical_Recipes_in_Physics_Report.pdf)
-
+- [ ] [Probability](https://github.com/ElonDormancy/Physics-Note/blob/master/Note/Probability.pdf)
 - [ ] Classcial Mechanics
 - [ ] Quantum Mechanics
 
