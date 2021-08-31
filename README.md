@@ -37,5 +37,5 @@ If you have any question you can contact me in [zhihu](https://www.zhihu.com/peo
 
 ## Code
 
-[QC _Simulator.ipynb]()
+[QC _Simulator.ipynb](https://github.com/ElonDormancy/Physics-Note/blob/master/Code/QC%20Simulator.ipynb)
 
