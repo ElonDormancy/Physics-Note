@@ -18,11 +18,24 @@ If you have any question you can contact me in [zhihu](https://www.zhihu.com/peo
 
 # Course Notes
 
-- [x] [Atomic Physics Review](https://github.com/ElonDormancy/Physics-Note/blob/master/Note/The_Review_of_Atomic_Physics.pdf)
+- [x] [Atomic Physics Review](https://github.com/ElonDormancy/Physics-Note/blob/master/Note/The_Review_of_Atomic_Physics.pdf)[[Simplified version](https://zhuanlan.zhihu.com/p/371286925))]
+
 - [x] [Electrodynamics_Brochure](https://github.com/ElonDormancy/Physics-Note/blob/master/Note/Electrodynamics_Brochure.pdf)
 - [x] [Quantum Information and quantum computation](https://github.com/ElonDormancy/Physics-Note/blob/master/Note/QIC/The_Note_of_QIC%20V4.pdf)
 - [x] [Numerical_Recipes_in_Physics](https://github.com/ElonDormancy/Physics-Note/blob/master/Note/Numerical_Recipes_in_Physics_Report.pdf)
-- [ ] [Probability](https://github.com/ElonDormancy/Physics-Note/blob/master/Note/Probability.pdf)
+- [x] [Probability](https://github.com/ElonDormancy/Physics-Note/blob/master/Note/Probability.pdf)
+- [x] [Mathematical Physics](https://zhuanlan.zhihu.com/p/343110386)
+- [x] [Discrete Mathematics](https://zhuanlan.zhihu.com/p/149468789)
 - [ ] Classcial Mechanics
 - [ ] Quantum Mechanics
+
+# QM(Quantum Computation Realization of Matrix)
+
+## Main
+
+[Simulating_quantum_circuits_with_spin](https://github.com/ElonDormancy/Physics-Note/blob/master/Note/Simulating_quantum_circuits_with_spin.pdf)
+
+## Code
+
+[QC _Simulator.ipynb]()
 
