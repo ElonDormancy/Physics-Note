@@ -1,7 +1,7 @@
 # About
 
-<p align="center">
-    <img src="https://github.com/ElonDormancy/Physics-Note/blob/master/Feynman.jpg" alt="Feyman" width="20%"/>
+<p align="left">
+    <img src="https://github.com/ElonDormancy/Physics-Note/blob/master/Feynman.jpg" alt="Feyman" width="40%"/>
 </p>
 
 [![](https://img.shields.io/badge/dynamic/json?color=0066ff&label=%E7%9F%A5%E4%B9%8E&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dzhihu%26queryKey%3Dshen-dang-fu-mu-xin-xiang-qing-hua)](https://www.zhihu.com/people/shen-dang-fu-mu-xin-xiang-qing-hua)  [![](https://img.shields.io/badge/Platform-Python-lightgrey)](https://www.python.org/)  [![](https://img.shields.io/badge/Platform-C%2FC%2B%2B-lightgrey)](https://www.cplusplus.com/)
