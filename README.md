@@ -29,9 +29,9 @@ Hope my notes will help you !
 - [x] [Probability](https://github.com/ElonDormancy/Physics-Note/blob/master/Note/Probability.pdf)
 - [x] [Mathematical Physics](https://zhuanlan.zhihu.com/p/343110386)
 - [x] [Discrete Mathematics](https://zhuanlan.zhihu.com/p/149468789)
+- [x] [Classcial Mechanics](https://github.com/ElonDormancy/Physics-Note/blob/master/Note/ClasscialMechanicsReview.pdf)
 - [x] [Racket Homework](https://github.com/ElonDormancy/Physics-Note/tree/master/Note/Racket%20Note)
 - [x] [BP Network Based on Lisp](https://github.com/ElonDormancy/Physics-Note/blob/master/Note/Neuron_Networks.pdf)
-- [x] [Classcial Mechanics](https://github.com/ElonDormancy/Physics-Note/blob/master/Note/Classcial MechanicsReview.pdf)
 - [x] [Advanced Quantum Mechanics](https://github.com/ElonDormancy/Physics-Note/blob/master/Note/AdvancedQuantumMechanicsReview.pdf)
 - [x] [Quantum Computing ](https://www.zhihu.com/column/c_1460585240066891776)
 
