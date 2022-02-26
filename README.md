@@ -2,15 +2,17 @@
 
 ![image](https://github.com/ElonDormancy/Physics-Note/blob/master/Feynman.jpg)
 
-Hello! I am a student major in physics.Above is my idol Richard Feynman and I recommand you to learn more about him.I have learned much from him and hope to be a physicist like him.Not only be a master of physics but also be interested in art !
+Hello! I am a student major in physics.Above is my idol Richard Feynman and I recommand you to learn more about him.I have learned much from him and hope to be a physicist like him.
 
-This is Physics notes summary Summarize by myself but still exists many errors and I will correct it further,The note almost about the quantum computation,and some other learning notes of myself.
+Not only be a master of physics but also be interested in art !
 
-And I will update my learning notes on github with some thinking
+This is Physics notes summary Summarize by myself but still exists many errors and I will correct it further,The note almost about the quantum computation learning way(quantum simulator mainly with Python or C++ version),and some other learning notes of myself.
+
+And I will update my learning notes on github with some thinking.
 
 If you want to read my note on the github you must install some extension to render latex math equation
 
-such as MathJax Plugin for Github
+Such as MathJax Plugin for Github
 
 Hope my note will help you !
 
@@ -19,23 +21,37 @@ If you have any question you can contact me in [zhihu](https://www.zhihu.com/peo
 # Course Notes
 
 - [x] [Atomic Physics Review](https://github.com/ElonDormancy/Physics-Note/blob/master/Note/The_Review_of_Atomic_Physics.pdf)[[Simplified version](https://zhuanlan.zhihu.com/p/371286925))]
-
 - [x] [Electrodynamics_Brochure](https://github.com/ElonDormancy/Physics-Note/blob/master/Note/Electrodynamics_Brochure.pdf)
 - [x] [Quantum Information and quantum computation](https://github.com/ElonDormancy/Physics-Note/blob/master/Note/QIC/The_Note_of_QIC%20V4.pdf)
-- [x] [Numerical_Recipes_in_Physics](https://github.com/ElonDormancy/Physics-Note/blob/master/Note/Numerical_Recipes_in_Physics_Report.pdf)
+- [x] [Numerical Recipes in Physics](https://github.com/ElonDormancy/Physics-Note/blob/master/Note/Numerical_Recipes_in_Physics_Report.pdf)
 - [x] [Probability](https://github.com/ElonDormancy/Physics-Note/blob/master/Note/Probability.pdf)
 - [x] [Mathematical Physics](https://zhuanlan.zhihu.com/p/343110386)
 - [x] [Discrete Mathematics](https://zhuanlan.zhihu.com/p/149468789)
+- [x] [Racket HM(Doing)]()
 - [ ] Classcial Mechanics
 - [ ] Quantum Mechanics
 
-# QM(Quantum Computation Realization of Matrix)
+***
 
-## Main
+# Quantum Simulator
 
-[Simulating_quantum_circuits_with_spin](https://github.com/ElonDormancy/Physics-Note/blob/master/Note/Simulating_quantum_circuits_with_spin.pdf)
+##  QM(Quantum Computation Realization of Matrix) Version 1
 
-## Code
+### Main
 
-[QC _Simulator.ipynb](https://github.com/ElonDormancy/Physics-Note/blob/master/Code/QC%20Simulator.ipynb)
+[Simulating quantum circuits with spin](https://github.com/ElonDormancy/Physics-Note/blob/master/Note/Simulating_quantum_circuits_with_spin.pdf)
+
+### Code
+
+[QC_Simulator.ipynb](https://github.com/ElonDormancy/Physics-Note/blob/master/Code/QC%20Simulator.ipynb)
+
+## QS Version 2
+
+### Example
+
+[QC_Simulator Example](https://github.com/ElonDormancy/QuantumSimulator/blob/main/QS/Example.ipynb)
+
+### Code
+
+[QC_Simulator](https://github.com/ElonDormancy/QuantumSimulator)
 

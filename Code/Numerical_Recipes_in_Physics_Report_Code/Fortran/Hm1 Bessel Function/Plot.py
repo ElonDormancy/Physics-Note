@@ -2,12 +2,13 @@ import matplotlib.pyplot as plt
 import numpy as np
 from bessel import bessel
 import scipy.special as spl
-
+n=30
+plt.figure(figsize=(18, 9))
 x = np.arange(1e-15, 30, 0.01)
 for v in range(0, 11)  :
     y = []
     for i in x:
-        y.append(bessel(v,50,round(i,4)))
+        y.append(bessel(v,n,i))
     plt.plot(x, y)
 plt.xlim((0, 30))
 plt.ylim((-0.5, 1.1))
