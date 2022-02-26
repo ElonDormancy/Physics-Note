@@ -22,7 +22,7 @@ Hope my notes will help you !
 
 # Course Notes
 
-- [x] [Atomic Physics Review](https://github.com/ElonDormancy/Physics-Note/blob/master/Note/The_Review_of_Atomic_Physics.pdf)[[Simplified version](https://zhuanlan.zhihu.com/p/371286925))]
+- [x] [Atomic Physics Review](https://github.com/ElonDormancy/Physics-Note/blob/master/Note/The_Review_of_Atomic_Physics.pdf)[[Simplified version](https://zhuanlan.zhihu.com/p/371286925)]
 - [x] [Electrodynamics_Brochure](https://github.com/ElonDormancy/Physics-Note/blob/master/Note/Electrodynamics_Brochure.pdf)
 - [x] [Quantum Information and quantum computation](https://github.com/ElonDormancy/Physics-Note/blob/master/Note/QIC/The_Note_of_QIC%20V4.pdf)
 - [x] [Numerical Recipes in Physics](https://github.com/ElonDormancy/Physics-Note/blob/master/Note/Numerical_Recipes_in_Physics_Report.pdf)
@@ -30,6 +30,8 @@ Hope my notes will help you !
 - [x] [Mathematical Physics](https://zhuanlan.zhihu.com/p/343110386)
 - [x] [Discrete Mathematics](https://zhuanlan.zhihu.com/p/149468789)
 - [x] [Racket Homework](https://github.com/ElonDormancy/Physics-Note/tree/master/Note/Racket%20Note)
+- [x] [BP Network Based on Lisp](https://github.com/ElonDormancy/Physics-Note/blob/master/Note/Neuron_Networks.pdf)
 - [x] [Classcial Mechanics](https://github.com/ElonDormancy/Physics-Note/blob/master/Note/Classcial MechanicsReview.pdf)
 - [x] [Advanced Quantum Mechanics](https://github.com/ElonDormancy/Physics-Note/blob/master/Note/AdvancedQuantumMechanicsReview.pdf)
 - [x] [Quantum Computing ](https://www.zhihu.com/column/c_1460585240066891776)
+
